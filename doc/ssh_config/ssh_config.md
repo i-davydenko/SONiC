@@ -30,6 +30,12 @@
 		- [1.14. Open/Action items - if any](#114-openaction-items---if-any)
 ###  1.1. <a name='Revision'></a>Revision  
 
+|  Rev  |   Date   |   Author   | Change Description |
+| :---: | :------: | :--------: | ------------------ |
+|  0.1  | 17/05/23 | Yona Coen  | Initial version    |
+|  0.2  | 16/06/23 | Ivan Davydenko | Add descriptions for auto-logout and max-sessions parameters  |
+
+
 ###  1.2. <a name='Scope'></a>Scope  
 
 This hld doc for ssh server global configurations describes the requirements, architecture and general flow details of ssh server config in SONIC OS based switches.
